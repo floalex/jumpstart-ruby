@@ -45,5 +45,5 @@ contents.each do |column|
   save_thank_you_letters(id, form_letter)
 end
 
-# After running the program, it will generate the output files for each even atendee.
+# After running the program, it will generate the output files for each event atendee.
 
